@@ -1,0 +1,41 @@
+body {
+
+
+    color: whitesmoke;
+  
+  
+  }
+
+
+  /* this is for ids*/
+
+
+
+
+  #picturebox {
+      width: 300px;
+      height: auto;
+      position: relative;
+  }
+
+  #navbar {
+      display: flex;
+      justify-content: center;
+
+  }
+
+  #navbar li, li a {
+      font-size: 28px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: white;
+  }
+
+  #navbar li a:link {
+      color: white;
+  } 
+
+  #navbar li a:hover {
+      color: violet;
+  }
+
+  
